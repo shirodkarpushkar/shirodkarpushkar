@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Pushkar Shirodkar! 👋
 
-<!--
-**shirodkarpushkar/shirodkarpushkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Project Engineer / Tech Enthusiast. I have a passion for Electronics and Computer Engineering and enjoy solving complex software issues.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Javascript, Python
+- Technologies & Tools: VueJS, ReactJS, NodeJS, SQL,
+- Other Skills: Webscraping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## YouTube Channel
+Check out my YouTube channel where I upload engineering videos addressing complex GATE examination problems. 
+While the channel's focus primarily revolves around engineering, it also extends its benefits to students studying electronic, electrical, and computer engineering.:
+
+[The Rising Phoenix](https://www.youtube.com/@PHOENIXTRIXS)
+
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/pushkar-shirodkar-744156132/)
+
+Feel free to reach out to me! I'm always open to collaborations and new opportunities.
