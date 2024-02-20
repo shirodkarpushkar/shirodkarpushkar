@@ -4,8 +4,8 @@
 I'm a Project Engineer / Tech Enthusiast. I have a passion for Electronics and Computer Engineering and enjoy solving complex software issues.
 
 ## Skills
-- Programming Languages: Javascript, Python
-- Technologies & Tools: VueJS, ReactJS, NodeJS, SQL,
+- Programming Languages: Typescript, Javascript, Python
+- Technologies & Tools: VueJS, ReactJS, NodeJS, SQL, React Native
 - Other Skills: Webscraping
 
 ## YouTube Channel
